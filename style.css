@@ -1,0 +1,18 @@
+body {
+	background: radial-gradient( #F0CB35, #C02425);
+}
+button{
+    color: #000;
+	font-size: 20px;
+	text-align: center;
+	box-shadow: 5px 5px 8px blue, 15px 10px 8px red, 15px 15px 8px green;
+}
+.p{
+    text-align: center;
+
+}
+
+.c{
+    display: inline-block;
+
+}
